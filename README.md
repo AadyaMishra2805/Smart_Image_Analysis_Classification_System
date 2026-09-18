@@ -371,9 +371,9 @@ Additional project documentation is available in the `docs/` directory, includin
 
 ## Author
 
-**Udit Raghuvanshi**
+**Aadya Mishra**
 
-**Registration No.:** 24BAI10173
+**Registration No.:** 24BAI10025
 
 **Course:** Computer Vision
 
