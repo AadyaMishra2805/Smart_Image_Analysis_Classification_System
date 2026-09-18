@@ -383,4 +383,4 @@ Additional project documentation is available in the `docs/` directory, includin
 
 ## GitHub Repository
 
-https://github.com/uditraghuvanshi99811/Smart_Image_Analysis_Classification_System
+https://github.com/AadyaMishra2805/Smart_Image_Analysis_Classification_System
