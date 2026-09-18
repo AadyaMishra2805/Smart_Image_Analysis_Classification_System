@@ -136,7 +136,7 @@ Class Weight: balanced
 Clone the repository:
 
 ```bash
-git clone https://github.com/uditraghuvanshi99811/Smart_Image_Analysis_Classification_System.git
+git clone https://github.com/AadyaMishra2805/Smart_Image_Analysis_Classification_System.git
 ```
 
 Move into the project directory:
